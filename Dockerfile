@@ -1,1 +1,1 @@
-FROM=tianon/true
+FROM tianon/true
